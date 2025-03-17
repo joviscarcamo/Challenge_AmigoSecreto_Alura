@@ -42,7 +42,7 @@ git clone https://github.com/joviscarcamo/Challenge_AmigoSecreto_Alura.git
 2. Abre el archivo index.html en tu navegador favorito.
 
 >**Nota**: No se necesita instalar ningun programa adicional ya que es un proyecto puramente basado en HTML,CSS y JavaScript.
- 
+--- 
 ## Uso
 
 Ingresa el nombre de un amigo en el campo de texto.
@@ -55,6 +55,18 @@ Haz click en **"Sortear Amigo"** para escoger un nombre al azar.
 
 Al finalizar el sorteo,el sistema se reiniciara automaticamente para permitirte comenzar de nuevo.
 
+---
+
+## Capturas de Pantalla
+
+A continuación se muestra una serie de capturas de pantalla mostrando la interfaz del juego.
+
+**Pantalla Principal**
+
+![Pagina principal](assets/Pagina%20incio.png)
+
+**Lista con nombres de amigos**
+---
 ## Autor
 
 -**Johana Cárcamo**. Implementacion de la logica en JavaScript.
@@ -62,6 +74,7 @@ Al finalizar el sorteo,el sistema se reiniciara automaticamente para permitirte 
 -**Alura Latam-G8 ONE**- Entrega del diseño base en HTML y CSS.
 Proyecto desarrollado como parte del programa del curso G8 ONE- Alura Latam.
 
+---
 ## Licencia
 
 Este proyecto es de código abierto y puede ser utilizado con fines educativos.
