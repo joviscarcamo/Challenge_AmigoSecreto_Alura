@@ -66,10 +66,40 @@ A continuación se muestra una serie de capturas de pantalla mostrando la interf
 ![Pagina principal](assets/Pagina%20incio.png)
 
 **Lista con nombres de amigos**
+
+En la captura se puede observar que cuando se ingtresa un nombre de amigo válido se genera un mensaje ¡Amigo agregado con éxito!, en el caso contrario, recibiría mensajes tales como: 
+
+-**"El nombre ya esta en la lista"**:Cuando existe nombres duplicados.
+
+-**"El nombre solo debe contener letras"**: Cuando se ingresa un caracter especial no admitido.
+
+-**"Por favor, Ingresa un nombre"**: Cuando se clickea el botón añadir, pero no se ha ingresado ningún nombre.
+
+![Lista](assets/listaamigos.png)
+
+**Sorteo**
+
+Como se observa en la captura al clickear el botón Sortear Amigo aparece el mensaje:
+
+-**"El amigo sorteado es: ---"**
+
+![Lista](assets/sorteo.png)
+
+**Reinicio Sorteo**
+
+Despúes que la lista de amigos queda vacía, la página realiza un reinicio automático enviando el siguiente mensaje:
+
+-"**El sorteo se ha reiniciado ¡Comienza a añadir amigos!"**
+
+![Lista](assets/reiniciosorteo.png)
+
+
+
+
 ---
 ## Autor
 
--**Johana Cárcamo**. Implementacion de la logica en JavaScript.
+-**Johana Cárcamo**. Implementación de la lógica en JavaScript.
 
 -**Alura Latam-G8 ONE**- Entrega del diseño base en HTML y CSS.
 Proyecto desarrollado como parte del programa del curso G8 ONE- Alura Latam.
