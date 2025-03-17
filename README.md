@@ -36,7 +36,7 @@ Sigue los siguientes pasos para clonar y ejecutar el proyecto localmente:
 1. Clona el repositorio
 
 ```bash
-git clone http.git
+git clone https://github.com/joviscarcamo/Challenge_AmigoSecreto_Alura.git
 ```
 
 2. Abre el archivo index.html en tu navegador favorito.
