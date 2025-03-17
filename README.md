@@ -55,6 +55,13 @@ Haz click en **"Sortear Amigo"** para escoger un nombre al azar.
 
 Al finalizar el sorteo,el sistema se reiniciara automaticamente para permitirte comenzar de nuevo.
 
+## Capturas de pantalla
+
+A continuación se muestra la interfaz del Juego Amigo Secreto
+
+![Pantalla principal](assets/Paginainicio.png)
+
+
 ## Autor
 
 -**Johana Cárcamo**. Implementacion de la logica en JavaScript.
